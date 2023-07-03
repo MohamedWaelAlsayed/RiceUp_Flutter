@@ -9,6 +9,8 @@ Rice diseases are various and threaten the economy and there are 2 most common d
 
 This function is about using ESP32 Node MCU with Two sensors moisture and temperature, Start taking readings from the farm and saving them into RTDB (Real-time Data Base) provisioned with autoscaling and no latency, and sending them to Mobile Application in Real-Time to Monitor readings change over time (monitor factors that may increase diseases) and Show number of readings.
 
+IOT code: https://github.com/MohamedWaelAlsayed/Interface-ESP32-with-firebase
+
 ## Attention
 This is phase one of the Graduation Project and we updated the project with AWS and Pytorch, adding new features
 you can see updated project from here: https://github.com/MohamedWaelAlsayed/rice-up
