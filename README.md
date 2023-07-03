@@ -1,16 +1,14 @@
-# project1
+# Graduation project: Rice UP
 
-A new Flutter project.
+Rice diseases are various and threaten the economy and there are 2 most common diseases in Egypt Brown and Blast these 2 diseases are very similar and cannot differentiate between them in their early stages, So the goal of our application is early detection of these diseases to avoid damages and help user to take an accurate and reliable Decision to improve Rice Quality as possible as.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ➤Rice UP is an IoT based System that contains 
 
-A few resources to get you started if this is your first Flutter project:
+• IOT With Firebase
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This function is about using ESP32 Node MCU with Two sensors moisture and temperature, Start taking readings from the farm and saving them into RTDB (Real-time Data Base) provisioned with autoscaling and no latency, and sending them to Mobile Application in Real-Time to Monitor readings change over time (monitor factors that may increase diseases) and Show number of readings.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![image](https://github.com/MohamedWaelAlsayed/RiceUp_Flutter/assets/62488272/67ac976d-195b-446c-96f9-85956c4b6b54)
+
