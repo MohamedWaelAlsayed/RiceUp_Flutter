@@ -19,4 +19,5 @@ you can see updated project from here: https://github.com/MohamedWaelAlsayed/ric
 
 
 
+### Screenshots of App
 ![image](https://github.com/MohamedWaelAlsayed/RiceUp_Flutter/assets/62488272/fe909ee5-2a33-4215-9090-3b9d7c9f1436) ![image](https://github.com/MohamedWaelAlsayed/RiceUp_Flutter/assets/62488272/cc101097-1e66-4713-b7aa-559e46a90f35)
